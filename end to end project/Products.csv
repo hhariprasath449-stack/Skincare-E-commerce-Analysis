@@ -1,0 +1,29 @@
+product_id,product_name,category,concern,skin_type,key_ingredient,size,mrp,cost_price,stock_qty,launch_date
+P001,2% Salicylic Acid Face Serum,Serum,Acne Control,Oily / Acne-Prone,Salicylic Acid,30ml,549,247,220,15-01-2022
+P002,10% Niacinamide Face Serum,Serum,Oil Control,Oily / Combination,Niacinamide,30ml,599,265,240,10-09-2021
+P003,Vitamin C 10% Face Serum,Serum,Brightening,All Skin Types,Vitamin C,30ml,699,315,180,01-05-2022
+P004,Alpha Arbutin 2% Serum,Serum,Pigmentation,All Skin Types,Alpha Arbutin,30ml,649,292,160,18-03-2022
+P005,Retinol 0.3% Face Serum,Serum,Anti-Ageing,Normal / Dry,Retinol,30ml,699,318,140,11-08-2022
+P006,Hyaluronic Acid 2% Serum,Serum,Hydration,Dry / Dehydrated,Hyaluronic Acid,30ml,599,258,210,05-12-2021
+P007,AHA BHA 10% Exfoliating Serum,Serum,Exfoliation,Oily / Combination,AHA + BHA,30ml,699,322,130,20-02-2023
+P008,Granactive Retinoid 2% Serum,Serum,Anti-Ageing,Normal / Mature,Retinoid,30ml,799,358,120,12-05-2023
+P009,Ceramide Moisturizer,Moisturizer,Barrier Repair,Dry / Sensitive,Ceramide,50g,349,145,300,01-10-2022
+P010,Vitamin B5 Moisturizer,Moisturizer,Hydration,All Skin Types,Vitamin B5,50g,399,162,280,22-04-2022
+P011,Sepicalm 3% Moisturizer,Moisturizer,Soothing,Sensitive,Sepicalm,50g,349,148,250,18-11-2021
+P012,Marula Oil 5% Moisturizer,Moisturizer,Nourishment,Dry,Marula Oil,50g,449,197,190,05-01-2023
+P013,SPF 50 Sunscreen,Sunscreen,Sun Protection,All Skin Types,SPF 50,50g,399,168,350,12-02-2022
+P014,SPF 60 PA++++ Sunscreen,Sunscreen,Sun Protection,All Skin Types,SPF 60,50g,499,211,260,10-03-2023
+P015,Aqualogica Lightweight Sunscreen,Sunscreen,Sun Protection,Oily / Combination,SPF Blend,50g,449,192,170,01-07-2023
+P016,Salicylic Acid Face Cleanser,Cleanser,Acne Control,Oily / Acne-Prone,Salicylic Acid,100ml,299,117,320,16-08-2021
+P017,Oat Extract Gentle Cleanser,Cleanser,Gentle Cleansing,Sensitive / Dry,Oat Extract,100ml,299,121,290,15-06-2022
+P018,Glycolic Acid Face Cleanser,Cleanser,Exfoliation,Normal / Oily,Glycolic Acid,100ml,349,143,230,03-04-2023
+P019,PHA 3% Alcohol-Free Toner,Toner,Exfoliation,Sensitive,PHA,150ml,399,166,180,30-09-2022
+P020,Rose Water Hydrating Toner,Toner,Hydration,All Skin Types,Rose Water,150ml,349,139,210,17-06-2023
+P021,Caffeine Under Eye Cream,Eye Care,Dark Circles,All Skin Types,Caffeine,30g,399,157,150,08-12-2022
+P022,Multi-Peptide Eye Cream,Eye Care,Anti-Ageing,Mature / Dry,Peptides,30g,499,218,110,05-08-2023
+P023,Anti-Dandruff Shampoo,Hair Care,Dandruff Control,Scalp Care,Piroctone Olamine,200ml,499,221,200,21-11-2022
+P024,Hair Growth Actives Serum,Hair Care,Hair Growth,Scalp Care,Redensyl,60ml,799,372,160,14-02-2023
+P025,Bond Repair Shampoo,Hair Care,Damage Repair,Hair Care,Bond Repair Complex,200ml,599,266,135,09-09-2023
+P026,Body Lotion with Niacinamide,Body Care,Body Brightening,All Skin Types,Niacinamide,200ml,449,182,220,03-10-2023
+P027,Body Wash with Salicylic Acid,Body Care,Body Acne,Oily / Acne-Prone,Salicylic Acid,200ml,399,159,240,01-11-2023
+P028,Lip Balm SPF 30,Lip Care,Lip Protection,All Skin Types,SPF 30,10g,249,92,260,12-12-2023
