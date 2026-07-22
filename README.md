@@ -64,16 +64,24 @@ Customers by acquisition channel
 
 ## Products Analysis
 Total products, Best selling, Best rated and Low stock KPI cards
+
 Average rating for all products
+
 Quantity sold by skin type
+
 Top 10 and Bottom 10 products by revenue
+
 Return rate by reason donut chart
 
 ## Customer Analysis
 Total customers, Repeat customers, Total orders and Average CLV KPI cards
+
 Customer orders by city and state
+
 Profit margin by acquisition channel
+
 Age group wise sales
+
 Revenue by gender
 
 ## Database Structure
@@ -96,7 +104,7 @@ CASE WHEN for customer segmentation
 DATEDIFF and DATE functions for time analysis
 
 ## Repository Contents
-end to end project folder contains all CSV files, SQL queries, Power BI file and screenshots
+End to end project folder contains all CSV files, SQL queries, Power BI file and screenshots
 
 README.md contains full project documentation
 
