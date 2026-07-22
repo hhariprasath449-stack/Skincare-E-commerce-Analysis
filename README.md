@@ -1,4 +1,4 @@
-### Skincare E-Commerce Data Analysis
+## Skincare E-Commerce Data Analysis
 
 ## Project Overview
 An end-to-end data analysis project on a skincare e-commerce business using Excel, MySQL and Power BI. This project covers the complete data analyst workflow from raw data cleaning to interactive dashboard and business insights.
