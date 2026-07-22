@@ -5,7 +5,9 @@ An end-to-end data analysis project on a skincare e-commerce business using Exce
 
 ## Tools Used
 Microsoft Excel — Data cleaning and preprocessing
+
 MySQL — Database design, querying and business analysis
+
 Power BI — Interactive dashboard and data visualization
 
 ## Dataset Overview
